@@ -128,7 +128,8 @@
 
 ## Letramento racial: O que é
 - Letramento racial são palavras de cunho racistas, como “Serviço de Preto” ou “Denegrir”.
-- Linguagem neutra não existe no VOLP. Para não causar desentendimentos:
+- Linguagem neutra não existe no VOLP.
+- Para não causar desentendimentos:
   - **Não Utilizar:** O coordenador
     **Preferir:** A coordenação
   - **Não Utilizar:** O político
@@ -169,19 +170,31 @@
 - Utilizar uma linguagem neutra pode ajudar a evitar conflitos e promover uma cultura organizacional mais inclusiva.
 - Inclusão é fundamental, mas deve ser alcançada sem criar polarizações ou conflitos ideológicos.
 
-## Menções feitas pelo professor:
-- Marshall Rosenberg
-- Terezinha Azerêdo Rios
-- Pedagogia do Amor
-- Dr. Jacques Lacan
-- Karl Popper
-- Emília Cipriano Sanches
-- Zygmunt Bauman
-- Giorgia Agamben
-- VOLP – Vocabulário Ortográfico da Língua Portuguesa
-- Tribunal de Nuremberg
-- Watsuji Tetsurõ (Não Daizai)
-- Nishitani Keiji (Não Mitsai)
+## Teoria da Intolerância - Curiosidade
 
-## Significados das siglas:
-CNV = Comunicação Não Violenta
+A "Teoria da Intolerância" é um conceito que remonta ao filósofo alemão Karl Popper. Ele argumenta que, em uma sociedade tolerante, é necessário ser intolerante com a intolerância. Isso implica que, para garantir a coexistência pacífica e o respeito mútuo entre diferentes grupos e ideologias, a sociedade deve estabelecer limites à disseminação de ideias que promovem a intolerância, o ódio e a violência. Popper defende que a liberdade de expressão não deve ser estendida àqueles que buscam destruir a própria liberdade através do discurso intolerante. Essa teoria fundamenta a ideia de que, para preservar a democracia e os direitos humanos, é necessário restringir aqueles que ameaçam esses valores fundamentais.
+
+## Menções feitas pelo professor durante a aula:
+- Marshall Rosenberg (Psicólogo americano, criador da Comunicação Não-Violenta)
+- Terezinha Azerêdo Rios (Pedagoga brasileira)
+- Pedagogia do Amor (Abordagem pedagógica)
+- Dr. Jacques Lacan (Psicanalista francês)
+- Karl Popper (Filósofo e cientista político austríaco-britânico)
+- Emília Cipriano Sanches (Pedagoga brasileira)
+- Zygmunt Bauman (Sociólogo e filósofo polonês)
+- Giorgio Agamben (Filósofo italiano)
+- VOLP – Vocabulário Ortográfico da Língua Portuguesa (Referência de ortografia)
+- Tribunal de Nuremberg (Tribunal militar internacional pós-Segunda Guerra Mundial)
+- Watsuji Tetsurõ (Filósofo japonês)
+- Nishitani Keiji (Filósofo japonês)
+
+  
+## Algumas recomendações que podem complementar e expandir seus conhecimentos:
+
+### Palestras e Livros:
+- [Palestras sobre Comunicação Não Violenta (Canal da UFU)](https://www.youtube.com/watch?v=JYPp6oNWVtQ&ab_channel=CanaldaUFU)
+- [Princípios da Comunicação Não Violenta (Marshall B. Rosenberg)](https://www.youtube.com/watch?v=uxABJFS1_j8&ab_channel=EuSouAquilo)
+- **"Comunicação Não-Violenta: Técnicas para Aprimorar Relacionamentos Pessoais e Profissionais" por Marshall B. Rosenberg:** Este livro é um guia clássico sobre CNV, oferecendo insights valiosos e exemplos práticos para melhorar a comunicação e os relacionamentos.
+- **"Liderança Servidora: Um Modelo de Liderança Transformacional" por Robert K. Greenleaf:** Este livro explora o conceito de liderança servidora, que enfatiza a importância da comunicação, empatia e colaboração na liderança eficaz.
+- **"A Arte de Fazer Perguntas" por Marilee G. Adams:** Este livro explora como fazer perguntas poderosas pode melhorar a comunicação e promover a compreensão mútua em diversas situações.
+- **"Justiça: O Que é Fazer a Coisa Certa" por Michael J. Sandel:** Este livro examina questões de ética e justiça, que podem complementar sua compreensão sobre a importância de evitar juízos de valor e promover uma comunicação mais ética e inclusiva.
